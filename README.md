@@ -1,7 +1,7 @@
 # 2FMObjEntry
 A user-created list of all KH2FM Object Entries
 
-#How to Contribute
+# How to Contribute
 Submit a PR if you would like to fix some of the unknowns in this list. Give a short and sweet description of the object
 Examples:
 
