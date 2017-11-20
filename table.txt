@@ -3,103 +3,103 @@ Format:
 <Filename>
 <UCM>
 
-Unknown
+Fat Bandit
 M_EX060
 0001
 ---------------
-Unknown
+Trick Ghost
 M_EX500
 0002
 ---------------
-Unknown
+Rabid Dog
 M_EX510
 0003
 ---------------
-Unknown
+Hook Bat
 M_EX520
 0004
 ---------------
-Unknown
+Bookmaster
 M_EX530
 0005
 ---------------
-Unknown
+Aeroplane
 M_EX540
 0006
 ---------------
-Unknown
+Minute Bomb
 M_EX550
 0007
 ---------------
-Unknown
+Hammer Frame
 M_EX560
 0008
 ---------------
-Unknown
+Assault Rider
 M_EX570
 0009
 ---------------
-Unknown
+Nightwalker
 M_EX580
 000a
 ---------------
-Unknown
+Fortuneteller
 M_EX620
 000b
 ---------------
-Unknown
+Luna Knight
 M_EX630
 000c
 ---------------
-Unknown
+Hot Rod
 M_EX640
 000d
 ---------------
-Unknown
+Cannon Gun
 M_EX650
 000e
 ---------------
-Unknown
+Living Bone
 M_EX670
 000f
 ---------------
-Unknown
+Devastator
 M_EX680
 0010
 ---------------
-Unknown
+Lance Soldier
 M_EX690
 0011
 ---------------
-Unknown
+Mole Driller
 M_EX700
 0012
 ---------------
-Unknown
+Shaman
 M_EX720
 0013
 ---------------
-Unknown
+Aerial Knocker
 M_EX780
 0014
 ---------------
-Unknown
+Shan-Yu
 B_MU100
 0015
 ---------------
-Unknown
+Hayabusa
 B_MU110
 0016
 ---------------
-Unknown
+Standing Torch
 F_HE000
 0017
 ---------------
-Unknown
+Blue Barrier
 F_HE010
 0018
 ---------------
-Unknown
+Mist Sphere
 F_HE110
 0019
 ---------------
@@ -111,59 +111,59 @@ Unknown
 F_BB070
 001b
 ---------------
-Unknown
+Gulliver Cannon
 F_WI060
 001e
 ---------------
-Unknown
+Cogsworth
 N_BB050_BTL
 001f
 ---------------
-Unknown
+Lumiere
 N_BB060_BTL
 0020
 ---------------
-Unknown
+Mrs. Potts
 N_BB070_BTL
 0021
 ---------------
-Unknown
+Wardrobe
 N_BB080_BTL
 0022
 ---------------
-Unknown
+Nothing
 F_BB000
 0023
 ---------------
-Unknown
+Nothing
 F_BB010
 0024
 ---------------
-Unknown
+Nothing
 F_BB020
 0025
 ---------------
-Unknown
+Nothing
 F_BB030
 0026
 ---------------
-Unknown
+Hercules (Dummy)
 N_HE010_ISHI_1
 0027
 ---------------
-Unknown
+A rock with rings
 F_HE610
 0035
 ---------------
-Unknown
+Gold Door (Hercules)
 F_HE500
 0036
 ---------------
-Unknown
+Gold Door (Hercules)
 F_HE510
 0037
 ---------------
-Unknown
+Underworld Door (Hercules)
 F_HE520
 0038
 ---------------
@@ -215,27 +215,27 @@ Unknown
 B_EX110
 0051
 ---------------
-Unknown
+Sora
 P_EX100
 0054
 ---------------
-Unknown
+Sora Valor Form
 P_EX100_BTLF
 0055
 ---------------
-Unknown
+Sora Wisdom Form
 P_EX100_MAGF
 0056
 ---------------
-Unknown
+Sora Master Form
 P_EX100_TRIF
 0057
 ---------------
-Unknown
+Sora Final Form
 P_EX100_ULTF
 0058
 ---------------
-Unknown
+Sora Anti-form
 P_EX100_HTLF
 0059
 ---------------
