@@ -211,7 +211,7 @@ Unknown
 M_AL020_ICEE
 004d
 ---------------
-Unknown
+OrgXIII - Axel
 B_EX110
 0051
 ---------------
@@ -239,115 +239,115 @@ Sora Anti-form
 P_EX100_HTLF
 0059
 ---------------
-Unknown
+Roxas
 P_EX110
 005a
 ---------------
-Unknown
+Mickey (Playable, Hood-On)
 P_EX200
 005b
 ---------------
-Unknown
+Donald (Party Member)
 P_EX020
 005c
 ---------------
-Unknown
+Goofy (Party Member)
 P_EX030
 005d
 ---------------
-Unknown
+Beast (Party Member)
 P_BB000
 005e
 ---------------
-Unknown
+Jack Skellington (Party Member)
 P_NM000
 005f
 ---------------
-Unknown
+Jack Skellington (Santa Outfit - Party Member)
 P_NM000_SANTA
 0060
 ---------------
-Unknown
+Simba (Party Member)
 P_LK000
 0061
 ---------------
-Unknown
+Aladdin (Party Member)
 P_AL000
 0062
 ---------------
-Unknown
+Mulan (Party Member)
 P_MU000
 0063
 ---------------
-Unknown
+Ping (Party Member)
 P_MU010
 0064
 ---------------
-Unknown
+Auron (Party Member)
 P_HE000
 0065
 ---------------
-Unknown
+Jack (Pirate - Party Member)
 P_CA000
 0066
 ---------------
-Unknown
+Kingdom Key
 W_EX010
 0067
 ---------------
-Unknown
+Oathkeeper
 W_EX010_10
 0068
 ---------------
-Unknown
+Oblivion
 W_EX010_20
 0069
 ---------------
-Unknown
+Edge of Ultima
 W_EX010_Y0
 006a
 ---------------
-Unknown
+Detection Saber
 W_EX010_Z0
 006b
 ---------------
-Unknown
+Mage's Staff
 W_EX020
 006c
 ---------------
-Unknown
+Knight's Shield
 W_EX030
 006d
 ---------------
-Unknown
+Test the King
 W_EX030_Z0
 006e
 ---------------
-Unknown
+Aladdin's Weapon
 W_AL000
 006f
 ---------------
-Unknown
+Auron's Weapon
 W_HE000
 0070
 ---------------
-Unknown
+Mulan's Weapon
 W_MU000
 0071
 ---------------
-Unknown
+Mushu
 N_MU080_PLY
 0072
 ---------------
-Unknown
+Jack Sparrow's Weapon (Pirate)
 W_CA000
 0073
 ---------------
-Unknown
+Kingdom Key D
 W_EX200
 0074
 ---------------
-Unknown
+Beast's Weapon (No Model)
 W_BB000
 0075
 ---------------
@@ -815,7 +815,7 @@ Unknown
 M_EX770
 0132
 ---------------
-Unknown
+Twilight Thorn
 B_EX100
 0133
 ---------------
@@ -2995,7 +2995,7 @@ Unknown
 F_LM600_MATSU
 04db
 ---------------
-Unknown
+OrgXIII - Axel (Ally)
 B_EX110_FRIEND
 04dc
 ---------------
@@ -4559,7 +4559,7 @@ Unknown
 M_EX860
 06c0
 ---------------
-Unknown
+Sora - Kingdom Hearts 1 Outfit
 P_EX120
 06c1
 ---------------
@@ -5959,7 +5959,7 @@ Unknown
 F_TT170
 084b
 ---------------
-Unknown
+OrgXIII - Axel (Prop, has RC)
 B_EX110_RTN
 084c
 ---------------
@@ -6971,15 +6971,15 @@ Unknown
 W_EX030_C0_WI
 0950
 ---------------
-Unknown
+Cloaked Roxas Boss (OrgXIII)
 B_EX390
 0951
 ---------------
-Unknown
+Roxas' Possessed Oathkeeper
 W_EX010_ROXAS_LIGHT
 0952
 ---------------
-Unknown
+Roxas' Possessed Oblivion
 W_EX010_ROXAS_DARK
 0953
 ---------------
@@ -7431,15 +7431,15 @@ Unknown
 F_HB130
 09c3
 ---------------
-Unknown
+OrgXIII - Axel (Data)
 B_EX110_LV99
 09c4
 ---------------
-Unknown
+OrgXIII - Xigbar (Data)
 B_EX140_LV99
 09c5
 ---------------
-Unknown
+OrgXIII - Saix (Data)
 B_EX160_LV99
 09c6
 ---------------
@@ -7447,23 +7447,23 @@ Unknown
 F_HB100
 09c7
 ---------------
-Unknown
+OrgXIII - Luxord (Data)
 B_EX150_LV99
 09c8
 ---------------
-Unknown
+OrgXIII - Xemnas (Data)
 B_EX170_LV99
 09c9
 ---------------
-Unknown
+OrgXIII - Final Xemnas (Data)
 B_EX170_LAST_LV99
 09ca
 ---------------
-Unknown
+OrgXIII - Xaldin (Data)
 B_EX130_LV99
 09cb
 ---------------
-Unknown
+OrgXIII - Demyx (Hollow Bastion - Data)
 B_EX120_HB_LV99
 09cc
 ---------------
